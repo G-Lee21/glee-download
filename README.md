@@ -1,0 +1,135 @@
+<div align="center">
+
+<img src="images/glee-logo.svg" alt="GLee Apps" width="320" />
+
+# ศูนย์ดาวน์โหลดโปรแกรม GLee · GLee Apps Download Center
+
+**โปรแกรมใช้งานฟรี ทำงานในเครื่องเป็นหลัก ไม่มีโฆษณา**  
+**Free, offline-first desktop apps for Windows. No ads.**
+
+[ข้อตกลงการใช้งาน (Terms)](TERMS.md) · [ความเป็นส่วนตัว (Privacy)](PRIVACY.md) · [เครดิตชิ้นส่วน (Credits)](CREDITS.md) · [หน้าดาวน์โหลด (Releases)](https://github.com/G-Lee21/glee-download/releases)
+
+</div>
+
+---
+
+## รายชื่อโปรแกรม · Applications
+
+<table>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <img src="images/icon-glee-cut.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut)" width="76" height="76" />
+    </td>
+    <td valign="top">
+      <h3>แมวดำตัดเพลงมาเย้ย (GLee Cut)</h3>
+      <p>
+        โปรแกรมตัดต่อ แต่งเสียง และแปลงไฟล์เสียงบน Windows ใช้งานได้ครบแบบไม่ต้องต่อเน็ต ไฟล์เสียงอยู่ในเครื่องคุณ 100%<br />
+        <em>Offline-first Windows audio editor, effects suite, and batch converter. Your audio files stay 100% on your PC.</em>
+      </p>
+      <p>
+        <img src="images/badge-coming-soon.svg" alt="เร็วๆ นี้ · Coming soon" height="26" />
+        &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+      </p>
+      <details open>
+        <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
+        <br />
+        <img src="images/screen-glee-cut.png" alt="หน้าจอหลัก แมวดำตัดเพลงมาเย้ย (GLee Cut)" width="760" />
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <img src="images/icon-glee-play.png" alt="แมวดำดูหนังมาเย้ย (GLee Play)" width="76" height="76" />
+    </td>
+    <td valign="top">
+      <h3>แมวดำดูหนังมาเย้ย (GLee Play)</h3>
+      <p>
+        โปรแกรมเล่นวิดีโอและเพลงบน Windows รองรับไฟล์หลากสกุล ปรับภาพ เสียง ซับไตเติล และธีมได้อิสระ<br />
+        <em>Fast Windows video and music player with wide format support, subtitle/audio controls, and customizable themes.</em>
+      </p>
+      <p>
+        <img src="images/badge-coming-soon.svg" alt="เร็วๆ นี้ · Coming soon" height="26" />
+        &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+      </p>
+      <details open>
+        <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
+        <br />
+        <img src="images/screen-glee-play.jpg" alt="หน้าจอหลัก แมวดำดูหนังมาเย้ย (GLee Play)" width="760" />
+      </details>
+    </td>
+  </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <img src="images/icon-glee-gok-live.png" alt="ก็อกมาเย้ย (GLee GOK Live)" width="76" height="76" />
+    </td>
+    <td valign="top">
+      <h3>ก็อกมาเย้ย (GLee GOK Live)</h3>
+      <p>
+        เวทีไลฟ์โต้ตอบพร้อมฉาก 57 ธีม มินิเกมให้คนดูเล่นผ่านแชท ห้องควบคุมไลฟ์ และดนตรีสังเคราะห์ ใช้คู่กับ OBS หรือ TikTok LIVE Studio<br />
+        <em>Interactive live-stream stage with 57 themes, chat mini-games, live control room, and built-in synth music for OBS / TikTok LIVE Studio.</em>
+      </p>
+      <p>
+        <img src="images/badge-coming-soon.svg" alt="เร็วๆ นี้ · Coming soon" height="26" />
+        &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+      </p>
+      <details open>
+        <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
+        <br />
+        <img src="images/screen-glee-gok-live.jpg" alt="หน้าจอหลัก ก็อกมาเย้ย (GLee GOK Live)" width="760" />
+      </details>
+    </td>
+  </tr>
+</table>
+
+> **หมายเหตุ / Note:** ไฟล์ติดตั้งและรุ่นพกพาจะเผยแพร่ในหน้า [Releases](https://github.com/G-Lee21/glee-download/releases) ของคลังนี้เร็ว ๆ นี้ · Installer and portable packages will be published on the [Releases](https://github.com/G-Lee21/glee-download/releases) page soon.
+
+---
+
+## เครื่องที่ใช้ได้ · System Requirements
+
+| รายการ · Item | รายละเอียด · Details |
+|---|---|
+| **ระบบปฏิบัติการ / OS** | Windows 10 หรือ Windows 11 รุ่น 64-bit (`x86_64`) |
+| **ส่วนเสริมที่จำเป็น / Runtime** | GLee Cut และ GLee Play ใช้ **Microsoft Edge WebView2** (มีมาพร้อม Windows 11 อยู่แล้ว และตัวติดตั้งจะช่วยติดตั้งให้อัตโนมัติหากเครื่องยังไม่มี) · *GLee Cut & GLee Play use Microsoft Edge WebView2 (pre-installed on Windows 11; automatically handled by the installer if missing).* |
+| **การใช้งานออฟไลน์ / Offline** | ใช้งานฟีเจอร์หลักในเครื่องได้โดยไม่ต้องต่ออินเทอร์เน็ตและไม่ต้องล็อกอิน · *Core features work offline without signing in.* |
+
+---
+
+## วิธีติดตั้ง · How to Install
+
+### แบบติดตั้งถาวร (`*-Setup.exe`) · Standard Installer
+1. ดาวน์โหลดไฟล์ `GLee-*-Setup.exe` จากหน้า [Releases](https://github.com/G-Lee21/glee-download/releases)
+2. ดับเบิลคลิกไฟล์เพื่อเปิดหน้าตัวติดตั้งมาตรฐาน GLee แล้วกด **"ติดตั้ง" (Install)** *(กด "เปลี่ยนที่ติดตั้ง" ได้หากต้องการเลือกแฟ้มเอง)*
+3. หาก Windows แสดงหน้าต่างเตือนสีน้ำเงิน **Windows protected your PC (SmartScreen)** เนื่องจากเป็นโปรแกรมแจกฟรีที่ไม่มีใบรับรองแบบเสียเงิน ให้ทำตามนี้:
+   - **ภาษาไทย:** กดคำว่า **"ข้อมูลเพิ่มเติม"** → แล้วกดปุ่ม **"เรียกใช้ต่อไป"**
+   - **English:** Click **"More info"** → then click **"Run anyway"**
+4. รอแถบความคืบหน้าครบ 100% แล้วกด **"เปิดเลย" (Launch)**
+
+### แบบพกพา (`*-Portable.zip`) · Portable Edition
+1. ดาวน์โหลดไฟล์ `GLee-*-Portable.zip` จากหน้า [Releases](https://github.com/G-Lee21/glee-download/releases)
+2. แตกไฟล์ (Extract All) ลงในแฟ้มที่ต้องการ แล้วเปิดไฟล์ `.exe` ของโปรแกรมได้ทันทีโดยไม่ต้องติดตั้ง
+
+---
+
+## วิธีอัปเดต · How to Update
+
+- **แบบติดตั้งถาวร (Installer):** เมื่อมีรุ่นใหม่ โปรแกรมจะแจ้งเตือนอัตโนมัติในหน้าต่างโปรแกรม (เช็กรุ่นใหม่จาก GitHub วันละไม่เกิน 1 ครั้ง) กด **"อัปเดตเลย" (Update now)** โปรแกรมจะตรวจสอบความถูกต้องของไฟล์ด้วย SHA-256 และลายเซ็นดิจิทัล แล้วติดตั้งทับที่เดิมโดย **ข้อมูลและการตั้งค่าเดิมอยู่ครบทั้งหมด** *(หรือกดปุ่ม "ตรวจหาอัปเดต" ในหน้าเกี่ยวกับแอปได้ทุกเมื่อ)*
+- **แบบพกพา (Portable):** โปรแกรมจะแจ้งเมื่อมีรุ่นใหม่เช่นกัน ให้ดาวน์โหลดไฟล์ `.zip` รุ่นใหม่จากหน้า [Releases](https://github.com/G-Lee21/glee-download/releases) มาใช้งานแทน
+
+---
+
+## วิธีถอนการติดตั้ง · How to Uninstall
+
+- **แบบติดตั้งถาวร (Installer):**
+  1. เปิด **การตั้งค่า (Settings)** → **แอป (Apps)** → **แอปที่ติดตั้ง (Installed apps)**
+  2. ค้นหาชื่อโปรแกรมที่ต้องการถอน แล้วกด **ถอนการติดตั้ง (Uninstall)**
+  3. หน้าตัวถอนการติดตั้งของ GLee จะมีช่อง **"เก็บข้อมูลและการตั้งค่าไว้" (Keep my data and settings)** ติ๊กไว้เป็นค่าเริ่มต้น หากต้องการลบข้อมูลการตั้งค่าของโปรแกรมนี้ในเครื่องออกด้วย ให้เอาเครื่องหมายติ๊กออกก่อนกด **"ถอนการติดตั้ง"**
+- **แบบพกพา (Portable):** ปิดโปรแกรมแล้วลบแฟ้มที่แตกไฟล์ไว้ได้เลย
+
+---
+
+## เอกสารเพิ่มเติม · Documentation
+
+- [ข้อตกลงการใช้งาน · Terms of Use](TERMS.md)
+- [นโยบายความเป็นส่วนตัว · Privacy Policy](PRIVACY.md)
+- [เครดิตชิ้นส่วนและใบอนุญาต · Third-Party Credits & Licenses](CREDITS.md)
