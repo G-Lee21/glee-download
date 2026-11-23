@@ -83,6 +83,32 @@
       </details>
     </td>
   </tr>
+  <tr>
+    <td width="96" align="center" valign="top">
+      <img src="images/icon-glee-load.png" alt="แมวดำมาเย้ย (GLee Load)" width="76" height="76" />
+    </td>
+    <td valign="top">
+      <h3>แมวดำมาเย้ย (GLee Load)</h3>
+      <p>
+        โปรแกรมช่วยดาวน์โหลดไฟล์ความเร็วสูงบน Windows แบ่งหลายท่อน หยุดแล้วโหลดต่อ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive พร้อมส่วนขยาย Chrome / Edge ในชุดติดตั้ง (ถ้าต้องการดึงคลิปโซเชียลและตัดช่วงคลิป ลง<a href="https://github.com/G-Lee21/glee-download-extra/releases">ส่วนเสริมโซเชียล</a>เพิ่มได้)<br />
+        <em>Fast Windows multi-part download manager with pause/resume, queues, scheduler, speed limiter, automatic Google Drive large-file support, and bundled Chrome / Edge extension. Optional <a href="https://github.com/G-Lee21/glee-download-extra/releases">Social Add-on</a> available separately for social clips and trimming.</em>
+      </p>
+      <p>
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/load-v1.0.5/GLee-Load-1.0.5-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด GLee Load 1.0.5 · Download GLee Load 1.0.5" height="28" />
+        </a>
+        &nbsp;<strong>รุ่น 1.0.5 (v1.0.5)</strong>
+        &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-social-v1.0.5">ส่วนเสริมโซเชียล · Social Add-on</a>
+      </p>
+      <details open>
+        <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
+        <br />
+        <img src="images/screen-glee-load.png" alt="หน้าจอหลัก แมวดำมาเย้ย (GLee Load)" width="760" />
+      </details>
+    </td>
+  </tr>
 </table>
 
 > **หมายเหตุ / Note:** โปรแกรมที่มีปุ่มดาวน์โหลดพร้อมใช้งานแล้วในหน้า [Releases](https://github.com/G-Lee21/glee-download/releases) · โปรแกรมที่ขึ้นป้าย "เร็วๆ นี้" กำลังทยอยเผยแพร่ · Apps with a Download button are available now on [Releases](https://github.com/G-Lee21/glee-download/releases); others are coming soon.
@@ -112,6 +138,12 @@
 ### แบบพกพา (`*-Portable.zip`) · Portable Edition
 1. ดาวน์โหลดไฟล์ `GLee-*-Portable.zip` จากหน้า [Releases](https://github.com/G-Lee21/glee-download/releases)
 2. แตกไฟล์ (Extract All) ลงในแฟ้มที่ต้องการ แล้วเปิดไฟล์ `.exe` ของโปรแกรมได้ทันทีโดยไม่ต้องติดตั้ง
+
+### ส่วนขยาย Chrome / Edge ของแมวดำมาเย้ย (GLee Load) · Browser Extension Setup
+ส่วนขยายมาพร้อมกับตัวติดตั้ง `GLee-Load-1.0.5-Setup.exe` อยู่แล้ว — เปิดหน้า **ตั้งค่า** ในแมวดำมาเย้ย แล้วกดปุ่ม **"ติดตั้งส่วนขยาย Chrome / Edge"** เพื่อเปิดแฟ้มส่วนขยาย จากนั้นทำตาม 3 ขั้นตอน:
+1. เปิด `chrome://extensions` (หรือ `edge://extensions`) แล้วเปิด **"โหมดนักพัฒนาซอฟต์แวร์" (Developer mode)**
+2. กด **"โหลดส่วนขยายที่แตกไฟล์แล้ว" (Load unpacked)** แล้วเลือกแฟ้มส่วนขยายที่เปิดขึ้นมา
+3. ใช้งานได้ทันที *(กด `Alt` ค้างตอนคลิกลิงก์หากต้องการให้เบราว์เซอร์โหลดเอง และไฟล์เล็กกว่า 1 MB จะปล่อยให้เบราว์เซอร์โหลดอัตโนมัติ)*
 
 ---
 

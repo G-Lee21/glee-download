@@ -76,7 +76,19 @@
 
 ---
 
-## 4. ชิ้นส่วนร่วมของตัวติดตั้งและตัวถอนมาตรฐาน GLee · Shared GLee Installer Components
+## 4. แมวดำมาเย้ย (GLee Load) — รุ่นล่าสุด v1.0.5
+
+ตรวจชิ้นส่วนในตัวหลักครบทุกตัว (Rust 159 แพ็กเกจ + ตัวติดตั้ง 65 แพ็กเกจ + UI Kit + ฟอนต์ + ไอคอน): **ใช้ได้อิสระทั้งหมด 100% — ไม่มีชิ้นส่วน GPL / AGPL / LGPL ในชุดหลัก** *(ชิ้นส่วนดึงคลิปโซเชียลและ FFmpeg รุ่น LGPLv3+ แยกแจกไว้ในคลัง `G-Lee21/glee-download-extra`)*
+
+| ชิ้นส่วน | รุ่น | สัญญาอนุญาต | แบบ | ต้นทาง |
+|---|---|---|---|---|
+| Rust Runtime & Crates (`tokio`, `serde`, `ureq`, `rustls`, `ring`, `ed25519-dalek`, `sha2`, `chrono`, `uuid`, `windows`, ฯลฯ — ตรวจครบ 159 ตัว) | ล็อกใน `Cargo.lock` | MIT / Apache-2.0 / BSD-3-Clause / ISC / Zlib / Unicode-3.0 / CDLA-Permissive-2.0 | ใช้ได้อิสระ | https://crates.io/ |
+| IBM Plex Sans Thai & Mali | 1.x | SIL OFL 1.1 | ฟอนต์ใช้ได้อิสระ | https://github.com/IBM/plex · https://fonts.google.com/specimen/Mali |
+| Lucide Icons | 1.77.0 | ISC | ใช้ได้อิสระ | https://lucide.dev/ |
+
+---
+
+## 5. ชิ้นส่วนร่วมของตัวติดตั้งและตัวถอนมาตรฐาน GLee · Shared GLee Installer Components
 
 | ชิ้นส่วน | รุ่น | สัญญาอนุญาต | แบบ | ต้นทาง |
 |---|---|---|---|---|

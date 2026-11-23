@@ -12,7 +12,7 @@
 - **การตรวจหาอัปเดต (ตามมาตรฐาน GLee ข้อ 10.2):**
   - **แอปเช็กรุ่นใหม่จาก GitHub วันละครั้ง ไม่ส่งข้อมูลของคุณ ปิดได้ในตั้งค่า**
   - *The app checks GitHub for a new version once a day without sending any of your personal data; this can be turned off in Settings.*
-- **ตัวนับการใช้งาน (ปิดเป็นค่าเริ่มต้น):** ทุกโปรแกรมมีสวิตช์ **"ช่วยปรับปรุงแอป" (Help improve the app)** ที่ **ปิดไว้เป็นค่าเริ่มต้น** หากไม่เปิด โปรแกรมจะไม่ส่งสถิติการใช้งานออกไปยังเซิร์ฟเวอร์ใด ๆ
+- **ตัวนับการใช้งาน:** แต่ละโปรแกรมมีสวิตช์ **"ช่วยปรับปรุงแอป" (Help improve the app)** เพื่อส่งสถิติการใช้งานแบบไม่ระบุตัวตนเท่านั้น และ **ไม่ส่งชื่อไฟล์ ลิงก์ หรือข้อมูลส่วนตัว** (สำหรับ GLee Cut, GLee Play, GLee GOK Live ปิดไว้เป็นค่าเริ่มต้น · สำหรับ GLee Load เปิดเป็นค่าเริ่มต้นและปิดได้ทันทีในหน้าตั้งค่า)
 
 ---
 
@@ -55,12 +55,22 @@
   - ลบบัญชีและข้อมูลคลาวด์ทั้งหมดได้ใน `บัญชี & คลาวด์ → ลบบัญชีและข้อมูลทั้งหมด`
 - **การเช็กรุ่นใหม่:** แอปเช็กรุ่นใหม่จาก GitHub วันละครั้ง ไม่ส่งข้อมูลของคุณ ปิดได้ในตั้งค่า
 
+### 4. แมวดำมาเย้ย (GLee Load)
+- **ไม่มีการล็อกอินและไม่มีโฆษณา:** ใช้งานได้ทันทีโดยไม่ต้องสมัครสมาชิกหรือล็อกอินใด ๆ
+- **สิ่งที่อยู่ในเครื่องเท่านั้น:** รายการดาวน์โหลด การตั้งค่า คิว/ตารางเวลา และไฟล์ที่ดาวน์โหลดทั้งหมดอยู่ในเครื่องของคุณ ช่องทางสื่อสารภายในเปิดรับเฉพาะ `127.0.0.1` ด้วยโทเค็นประจำเครื่องและตรวจสอบต้นทาง
+- **คุกกี้เฉพาะไฟล์สำหรับเว็บที่ต้องล็อกอิน (ส่วนขยายเบราว์เซอร์):** เมื่อส่งลิงก์ที่ต้องใช้สิทธิ์เข้าสู่ระบบ ส่วนขยายจะส่งคุกกี้เฉพาะไฟล์นั้นผ่าน `127.0.0.1` เพื่อใช้ดาวน์โหลดครั้งเดียวแล้วทิ้งทันที **ไม่บันทึกลงดิสก์หรือเก็บถาวร**
+- **ตัวนับการใช้งาน (Google Analytics 4 Measurement Protocol):**
+  - เปิดเป็นค่าเริ่มต้น และปิดได้ทุกเมื่อในหน้า **ตั้งค่า → ตัวนับการใช้งาน**
+  - ส่งเฉพาะสถิติแบบไม่ระบุตัวตน ได้แก่ การเปิดโปรแกรม, การดาวน์โหลดเสร็จ, ชนิดหมวดหมู่ไฟล์ทั่วไป, รุ่นโปรแกรม, รุ่น Windows และรหัสสุ่มประจำเครื่อง
+  - **ไม่ส่งเด็ดขาด:** ลิงก์ (URL), ชื่อไฟล์, เส้นทางไฟล์, คุกกี้ หรือข้อมูลส่วนตัวใด ๆ
+- **การเช็กรุ่นใหม่:** แอปเช็กรุ่นใหม่จาก GitHub วันละครั้ง ไม่ส่งข้อมูลของคุณ ปิดได้ในตั้งค่า
+
 ---
 
 ## English Summary
 
-- **Offline-First & No Ads:** All three Windows desktop apps (**GLee Cut**, **GLee Play**, and **GLee GOK Live**) process your media, audio, and live-stream events locally on your PC. None of them contain ads or collect personal data for advertising.
+- **Offline-First & No Ads:** All four Windows desktop apps (**GLee Cut**, **GLee Play**, **GLee GOK Live**, and **GLee Load**) process your files locally on your PC. None of them contain ads or collect personal data for advertising.
 - **Update Checks:** The app checks GitHub for a new version once a day without sending any of your personal data; this can be turned off in Settings.
-- **Anonymous Usage Counter (Opt-In, OFF by Default):** All three apps include a **"Help improve the app"** toggle that is **OFF by default**. Only when explicitly enabled do they send anonymous counts (app open/close, app & Windows version, feature names, error category, and a random per-PC ID) via Google Analytics 4 Measurement Protocol. They never send file names, paths, song/video titles, live chat messages, or personal identifiers.
-- **Optional Google Sign-In & Cloud Settings Sync:** All core features work without signing in. If you choose to sign in with Google (via your system browser using OAuth 2.0 + PKCE and Firebase Authentication under project `glee-21`, with local refresh tokens encrypted via Windows DPAPI), only your app preferences/presets are synced to Cloud Firestore (`users/{uid}/maewcut/`, `users/{uid}/maewplay/settings`, or `apps/gok/users/{uid}`). Media files, user API keys, webhooks, and chat/viewer data are never uploaded. You can delete an app's cloud data or delete your entire account at any time from inside the app's settings.
+- **Anonymous Usage Counter:** All apps include a **"Help improve the app"** toggle that sends only anonymous usage counts via Google Analytics 4 Measurement Protocol and never sends file names, URLs, paths, cookies, or personal identifiers (OFF by default in GLee Cut, GLee Play, and GLee GOK Live; ON by default in GLee Load and toggleable OFF anytime in Settings).
+- **Optional Google Sign-In & Cloud Settings Sync:** All core features work without signing in. **GLee Load** has no sign-in system at all. For GLee Cut, GLee Play, and GLee GOK Live, if you choose to sign in with Google (via your system browser using OAuth 2.0 + PKCE and Firebase Authentication under project `glee-21`, with local refresh tokens encrypted via Windows DPAPI), only your app preferences/presets are synced to Cloud Firestore (`users/{uid}/maewcut/`, `users/{uid}/maewplay/settings`, or `apps/gok/users/{uid}`). Media files, user API keys, webhooks, and chat/viewer data are never uploaded. You can delete an app's cloud data or delete your entire account at any time from inside the app's settings.
 - **Full Online Policy:** [https://glee-21.firebaseapp.com/privacy.html](https://glee-21.firebaseapp.com/privacy.html)

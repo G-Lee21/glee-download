@@ -1,0 +1,32 @@
+{
+  "app": "MaewDamPC",
+  "version": "1.0.5",
+  "date": "2026-11-23",
+  "min_auto": "1.0.5",
+  "notes": {
+    "th": [
+      "รวมเครื่องมือโหลดแบ่งท่อนความเร็วสูง หยุดแล้วโหลดต่อ คิว ตั้งเวลา และจำกัดความเร็วเข้ามาเป็นตัวเดียว",
+      "รองรับไฟล์ขนาดใหญ่บน Google Drive อัตโนมัติ และบล็อกหน้าเว็บ .html/.php พร้อมปุ่มโหลดครั้งนี้",
+      "หน้าตา 2 ธีม (ขาวเริ่มต้นตลอดไป / ดำ) พร้อมแมวมุมจอคลิกสลับธีมและคีย์ลัด Ctrl+Shift+D",
+      "ส่วนขยาย Chrome / Edge (v1.2.5) มาพร้อมตัวติดตั้งหลัก และแยกส่วนเสริมโซเชียลไว้ต่างหาก"
+    ],
+    "en": [
+      "Unified multi-part download engine with pause/resume, queues, scheduler, and speed limiter",
+      "Automatic Google Drive large-file handling and smart web-page blocker with one-click override",
+      "Clean White (default) and Black themes with interactive corner cat and Ctrl+Shift+D toggle",
+      "Bundled Chrome / Edge extension (v1.2.5) with separate optional Social Add-on package"
+    ]
+  },
+  "announcement": {
+    "th": "",
+    "en": ""
+  },
+  "files": {
+    "win-setup": {
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/load-v1.0.5/GLee-Load-1.0.5-Setup.exe",
+      "size": 6345186,
+      "sha256": "02362457a8136d3a550e2f684d4f2f25ea484bdf1b30ffdbae66d341d7963450"
+    }
+  },
+  "sig": "5vHeFaPvXxhdyqbGAIJ2CDK8xKwnGH3oae4JVkz43pTEOa6lx74nvYdk19Lp6BeEWZUqr7eSRsnXI6bgatPkAA=="
+}
