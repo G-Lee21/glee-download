@@ -48,8 +48,12 @@
         <em>Fast Windows video and music player with wide format support, subtitle/audio controls, and customizable themes.</em>
       </p>
       <p>
-        <img src="images/badge-coming-soon.svg" alt="เร็วๆ นี้ · Coming soon" height="26" />
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.8/GLee-Play-1.0.8-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด GLee Play 1.0.8 · Download GLee Play 1.0.8" height="28" />
+        </a>
+        &nbsp;<strong>รุ่น 1.0.8 (v1.0.8)</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.0.8">รายละเอียดรุ่น · Release notes</a>
       </p>
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
@@ -81,7 +85,7 @@
   </tr>
 </table>
 
-> **หมายเหตุ / Note:** ไฟล์ติดตั้งและรุ่นพกพาจะเผยแพร่ในหน้า [Releases](https://github.com/G-Lee21/glee-download/releases) ของคลังนี้เร็ว ๆ นี้ · Installer and portable packages will be published on the [Releases](https://github.com/G-Lee21/glee-download/releases) page soon.
+> **หมายเหตุ / Note:** โปรแกรมที่มีปุ่มดาวน์โหลดพร้อมใช้งานแล้วในหน้า [Releases](https://github.com/G-Lee21/glee-download/releases) · โปรแกรมที่ขึ้นป้าย "เร็วๆ นี้" กำลังทยอยเผยแพร่ · Apps with a Download button are available now on [Releases](https://github.com/G-Lee21/glee-download/releases); others are coming soon.
 
 ---
 
