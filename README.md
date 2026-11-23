@@ -90,17 +90,17 @@
     <td valign="top">
       <h3>แมวดำมาเย้ย (GLee Load)</h3>
       <p>
-        โปรแกรมช่วยดาวน์โหลดไฟล์ความเร็วสูงบน Windows แบ่งหลายท่อน หยุดแล้วโหลดต่อ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive พร้อมส่วนขยาย Chrome / Edge ในชุดติดตั้ง (ถ้าต้องการดึงคลิปโซเชียลและตัดช่วงคลิป ลง<a href="https://github.com/G-Lee21/glee-download-extra/releases">ส่วนเสริมโซเชียล</a>เพิ่มได้)<br />
-        <em>Fast Windows multi-part download manager with pause/resume, queues, scheduler, speed limiter, automatic Google Drive large-file support, and bundled Chrome / Edge extension. Optional <a href="https://github.com/G-Lee21/glee-download-extra/releases">Social Add-on</a> available separately for social clips and trimming.</em>
+        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดแล้วโหลดต่อ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive รวมตัวดึงคลิป ตัวรวมภาพกับเสียง (FFmpeg รุ่น LGPL) ตัดช่วง และส่วนขยาย Chrome / Edge (รุ่น 1.2.6) ในตัวติดตั้งเดียวที่ <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">glee-download-extra</a><br />
+        <em>Fast Windows multi-part download manager and media saver with pause/resume, queues, scheduler, speed limiter, Google Drive large-file support, bundled LGPL media tools, and Chrome / Edge extension v1.2.6 — distributed as a unified installer via <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">glee-download-extra</a>.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/download/load-v1.0.5/GLee-Load-1.0.5-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด GLee Load 1.0.5 · Download GLee Load 1.0.5" height="28" />
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.6/GLee-Load-1.0.6-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด GLee Load 1.0.6 · Download GLee Load 1.0.6" height="28" />
         </a>
-        &nbsp;<strong>รุ่น 1.0.5 (v1.0.5)</strong>
+        &nbsp;<strong>รุ่น 1.0.6 (v1.0.6 · ตัวติดตั้งเดียว)</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">รายละเอียดรุ่น · Release notes</a>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-social-v1.0.5">ส่วนเสริมโซเชียล · Social Add-on</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">รายละเอียดรุ่น 1.0.6 · Release notes</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">รุ่นเดิม 1.0.5</a>
       </p>
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
