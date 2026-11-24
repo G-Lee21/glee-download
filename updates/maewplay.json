@@ -1,20 +1,20 @@
 {
   "app": "maewplay",
-  "version": "1.0.8",
-  "date": "2026-11-23",
+  "version": "1.0.11",
+  "date": "2026-11-24",
   "min_auto": "1.0.8",
   "notes": {
     "th": [
-      "หน้าตาสะอาดตา เรียบง่าย และอ่านตัวอักษรไทยได้ชัดเจนขึ้น",
-      "เพิ่มธีมสีดำล้วนและสีขาวล้วน พร้อมตัวเลือกลดภาพเคลื่อนไหว",
-      "แก้ปัญหาหน้าต่างวิดีโอลอยค้างเมื่อเปิด-ปิดซ้ำหลายรอบ",
-      "ปรับปรุงตัวติดตั้งมาตรฐาน GLee ให้ติดตั้งและลงทับได้ราบรื่นขึ้น"
+      "หน้าตาใหม่ตามชุดกลาง GLee UI Kit พร้อม 3 ธีมมาตรฐาน (ขาวเรียบหรู / ดำเรียบหรู / สีรุ้งลูกกวาด)",
+      "เพิ่มปุ่มจับภาพทันที (กล้อง / Ctrl+E) บันทึกความละเอียดต้นฉบับลง Pictures\\GLee Play",
+      "แก้ปัญหาภาพหนังลอยค้างบนจออย่างถาวร (ฝังภาพเป็นหน้าต่างลูกแท้ภายในหน้าต่างหลัก) พร้อมกรอบบางเมื่อซ่อนแถบ",
+      "ตั้งค่าเล่นวนซ้ำเป็นค่าเริ่มต้นทั้งไฟล์เดียวและรายการเล่น พร้อมปุ่มวนซ้ำบนแถบล่างและตัวเลือกใน F2"
     ],
     "en": [
-      "Cleaner, refined interface with improved Thai typography",
-      "Added monochrome Black and White themes with a reduced-motion option",
-      "Fixed a floating video window leak during repeated open/close cycles",
-      "Updated standard GLee installer for smoother fresh installs and upgrades"
+      "Refreshed GLee UI Kit interface with 3 standard themes (White / Black / Candy)",
+      "Added instant frame capture (Camera / Ctrl+E) saving full resolution directly to Pictures\\GLee Play",
+      "Permanently fixed floating/detached video overlay via native child-window embedding, plus subtle border when bars hide",
+      "Enabled repeat/loop playback by default for single files and playlists, with synced bottom-bar button and F2 selector"
     ]
   },
   "announcement": {
@@ -23,10 +23,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.8/GLee-Play-1.0.8-Setup.exe",
-      "size": 67890053,
-      "sha256": "6800827ccc490d96122974f96013d0b0fa2cde1c5297a1b1352e88993cd3d2f6"
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.11/GLee-Play-1.0.11-Setup.exe",
+      "size": 65919551,
+      "sha256": "972d41f6ad0c0e7830aa58ea1ffb15fc59153f35879a6dcb548c266781e12716"
     }
   },
-  "sig": "NDXgO0YhUwNPf+6/QxzW3yA4gICwOw04LNkTM64r9cXRjiDt5AtV2z9/adCvMMAW5CnQeUvTdLxr3PokeP+wDw=="
+  "sig": "QYYpSJ0CqncXdBMCpNbGBS3SP27d0VOdVBESt2doHnxyHYFo5wbRKodtDtfN88MLicX05dy8dJ3E5vlyhKjKAA=="
 }
