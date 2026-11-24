@@ -1,20 +1,20 @@
 {
   "app": "maewplay",
-  "version": "1.0.11",
+  "version": "1.0.13",
   "date": "2026-11-24",
-  "min_auto": "1.0.8",
+  "min_auto": "1.0.12",
   "notes": {
     "th": [
-      "หน้าตาใหม่ตามชุดกลาง GLee UI Kit พร้อม 3 ธีมมาตรฐาน (ขาวเรียบหรู / ดำเรียบหรู / สีรุ้งลูกกวาด)",
-      "เพิ่มปุ่มจับภาพทันที (กล้อง / Ctrl+E) บันทึกความละเอียดต้นฉบับลง Pictures\\GLee Play",
-      "แก้ปัญหาภาพหนังลอยค้างบนจออย่างถาวร (ฝังภาพเป็นหน้าต่างลูกแท้ภายในหน้าต่างหลัก) พร้อมกรอบบางเมื่อซ่อนแถบ",
-      "ตั้งค่าเล่นวนซ้ำเป็นค่าเริ่มต้นทั้งไฟล์เดียวและรายการเล่น พร้อมปุ่มวนซ้ำบนแถบล่างและตัวเลือกใน F2"
+      "ปรับสีปุ่มเล่น ปุ่มที่เปิดใช้อยู่ แถบเลื่อนเวลา และแถบระดับเสียงให้ตรงกับชุดหน้าตากลาง glee-ui-kit ครบทั้ง 3 ธีม",
+      "ธีมขาวเรียบหรู: ปุ่มเล่นและปุ่มที่เปิดใช้เป็นสีดำไอคอนขาว · ธีมดำเรียบหรู: ปุ่มเล่นและปุ่มที่เปิดใช้เป็นสีขาวไอคอนดำ",
+      "ธีมสีรุ้ง (ลูกกวาด): ปุ่มเล่นเม็ดยามันวาวสีชมพู ปุ่มที่เปิดใช้และแถบเลื่อนเป็นสีชมพูตามสีหลักของธีม (แทนสีม่วงเดิม)",
+      "คงกล่องไอคอนสีตามความหมายในหน้าตั้งค่า F2 และเมนูคลิกขวา รวมถึงระบบอัปเดตในตัวและการเล่นวนซ้ำเป็นค่าเริ่มต้นครบถ้วน"
     ],
     "en": [
-      "Refreshed GLee UI Kit interface with 3 standard themes (White / Black / Candy)",
-      "Added instant frame capture (Camera / Ctrl+E) saving full resolution directly to Pictures\\GLee Play",
-      "Permanently fixed floating/detached video overlay via native child-window embedding, plus subtle border when bars hide",
-      "Enabled repeat/loop playback by default for single files and playlists, with synced bottom-bar button and F2 selector"
+      "Updated Play button, active toggle buttons, seekbar, and volume slider colors to match glee-ui-kit across all 3 themes",
+      "White theme: black Play & active buttons with white icons · Black theme: white Play & active buttons with black icons",
+      "Candy theme: glossy pink pill Play button, pink active buttons & sliders (replacing purple)",
+      "Preserved semantic icon boxes in F2 Settings & context menus, in-app auto-updater, and default repeat playback"
     ]
   },
   "announcement": {
@@ -23,10 +23,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.11/GLee-Play-1.0.11-Setup.exe",
-      "size": 65919551,
-      "sha256": "972d41f6ad0c0e7830aa58ea1ffb15fc59153f35879a6dcb548c266781e12716"
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.13/GLee-Play-1.0.13-Setup.exe",
+      "size": 65986423,
+      "sha256": "bd11388fc6b6acd3c23edae6f9714b20099759fb60fffd94d0aef3a0617aabcb"
     }
   },
-  "sig": "QYYpSJ0CqncXdBMCpNbGBS3SP27d0VOdVBESt2doHnxyHYFo5wbRKodtDtfN88MLicX05dy8dJ3E5vlyhKjKAA=="
+  "sig": "OkKdDloMW1oYVQvCbfRSC9mb1uxaf117v1eOAPJrmhP0hJGeWQnMtooM9gDJCVdo9Ol8UtmvWC+0JE+cNdPNCw=="
 }
