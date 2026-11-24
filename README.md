@@ -17,7 +17,7 @@
 
 <table>
   <tr>
-    <td width="96" align="center" valign="top">
+    <td width="104" align="center" valign="top">
       <img src="images/icon-glee-cut.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut)" width="76" height="76" />
     </td>
     <td valign="top">
@@ -27,9 +27,7 @@
         <em>Offline-first Windows audio editor, effects suite, and batch converter with 3 clean themes (White · Black · Candy). Your audio files stay 100% on your PC.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/download/cut-v1.2.7/GLee-Cut-1.2.7-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำตัดเพลงมาเย้ย โปรแกรม 1.2.7 · Download GLee Cut 1.2.7" height="28" align="absmiddle" />
-        </a>
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/cut-v1.2.7/GLee-Cut-1.2.7-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำตัดเพลงมาเย้ย โปรแกรม 1.2.7 · Download GLee Cut 1.2.7" height="28" align="absmiddle" /></a>
         &nbsp;<strong>โปรแกรม 1.2.7</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
         &nbsp;·&nbsp;<code>6.32 MB</code>
@@ -42,25 +40,14 @@
         <summary><strong>ภาพหน้าจอ · Screenshots (3 ธีม: ขาว · ดำ · สีรุ่ง)</strong></summary>
         <br />
         <p><strong>ธีมขาว (White — ค่าเริ่มต้น)</strong></p>
-        <img src="images/screen-glee-cut-white.png" alt="หน้าจอหลัก แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมขาว" width="760" />
-        <br /><br />
-        <table>
-          <tr>
-            <td align="center" width="50%">
-              <strong>ธีมดำ (Black)</strong><br />
-              <img src="images/screen-glee-cut-black.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมดำ" width="370" />
-            </td>
-            <td align="center" width="50%">
-              <strong>ธีมสีรุ่ง (Candy)</strong><br />
-              <img src="images/screen-glee-cut-candy.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมสีรุ่ง" width="370" />
-            </td>
-          </tr>
-        </table>
+        <img src="images/screen-glee-cut-white.png" alt="หน้าจอหลัก แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมขาว" width="680" />
+        <p><strong>ธีมดำ (Black) · ธีมสีรุ่ง (Candy)</strong></p>
+        <p><img src="images/screen-glee-cut-black.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมดำ" width="335" />&nbsp;&nbsp;<img src="images/screen-glee-cut-candy.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมสีรุ่ง" width="335" /></p>
       </details>
     </td>
   </tr>
   <tr>
-    <td width="96" align="center" valign="top">
+    <td width="104" align="center" valign="top">
       <img src="images/icon-glee-play.png" alt="แมวดำดูหนังมาเย้ย (GLee Play)" width="76" height="76" />
     </td>
     <td valign="top">
@@ -70,9 +57,7 @@
         <em>Fast Windows video and music player with wide format support, 3 clean themes (White / Black / Candy), instant capture, default repeat playback, and full subtitle/audio controls.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.11/GLee-Play-1.0.11-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.0.11 · Download GLee Play 1.0.11" height="28" align="absmiddle" />
-        </a>
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.11/GLee-Play-1.0.11-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.0.11 · Download GLee Play 1.0.11" height="28" align="absmiddle" /></a>
         &nbsp;<strong>โปรแกรม 1.0.11</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
         &nbsp;·&nbsp;<code>62.87 MB</code>
@@ -85,25 +70,14 @@
         <summary><strong>ภาพหน้าจอ · Screenshots (3 ธีม: ขาวเรียบหรู · ดำเรียบหรู · สีรุ้งลูกกวาด)</strong></summary>
         <br />
         <p><strong>ธีมขาวเรียบหรู (White — ค่าเริ่มต้น)</strong></p>
-        <img src="images/screen-glee-play-white.png" alt="หน้าจอหลัก แมวดำดูหนังมาเย้ย (GLee Play) ธีมขาวเรียบหรู" width="760" />
-        <br /><br />
-        <table>
-          <tr>
-            <td align="center" width="50%">
-              <strong>ธีมดำเรียบหรู (Black)</strong><br />
-              <img src="images/screen-glee-play-black.png" alt="แมวดำดูหนังมาเย้ย (GLee Play) ธีมดำเรียบหรู" width="370" />
-            </td>
-            <td align="center" width="50%">
-              <strong>ธีมสีรุ้งลูกกวาด (Candy)</strong><br />
-              <img src="images/screen-glee-play-candy.png" alt="แมวดำดูหนังมาเย้ย (GLee Play) ธีมสีรุ้งลูกกวาด" width="370" />
-            </td>
-          </tr>
-        </table>
+        <img src="images/screen-glee-play-white.png" alt="หน้าจอหลัก แมวดำดูหนังมาเย้ย (GLee Play) ธีมขาวเรียบหรู" width="680" />
+        <p><strong>ธีมดำเรียบหรู (Black) · ธีมสีรุ้งลูกกวาด (Candy)</strong></p>
+        <p><img src="images/screen-glee-play-black.png" alt="แมวดำดูหนังมาเย้ย (GLee Play) ธีมดำเรียบหรู" width="335" />&nbsp;&nbsp;<img src="images/screen-glee-play-candy.png" alt="แมวดำดูหนังมาเย้ย (GLee Play) ธีมสีรุ้งลูกกวาด" width="335" /></p>
       </details>
     </td>
   </tr>
   <tr>
-    <td width="96" align="center" valign="top">
+    <td width="104" align="center" valign="top">
       <img src="images/icon-glee-gok-live.png" alt="ก็อกมาเย้ย (GLee GOK Live)" width="76" height="76" />
     </td>
     <td valign="top">
@@ -113,18 +87,18 @@
         <em>Interactive live-stream stage with 57 themes, chat mini-games, live control room, and built-in synth music for OBS / TikTok LIVE Studio.</em>
       </p>
       <p>
-        <img src="images/badge-coming-soon.svg" alt="เร็วๆ นี้ · Coming soon" height="26" />
+        <img src="images/badge-coming-soon.svg" alt="เร็วๆ นี้ · Coming soon" height="26" align="absmiddle" />
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
       </p>
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
         <br />
-        <img src="images/screen-glee-gok-live.jpg" alt="หน้าจอหลัก ก็อกมาเย้ย (GLee GOK Live)" width="760" />
+        <img src="images/screen-glee-gok-live.jpg" alt="หน้าจอหลัก ก็อกมาเย้ย (GLee GOK Live)" width="680" />
       </details>
     </td>
   </tr>
   <tr>
-    <td width="96" align="center" valign="top">
+    <td width="104" align="center" valign="top">
       <img src="images/icon-glee-load.png" alt="แมวดำมาเย้ย (GLee Load)" width="76" height="76" />
     </td>
     <td valign="top">
@@ -134,9 +108,7 @@
         <em>Fast Windows multi-part download manager and media saver with pause/resume, queues, scheduler, speed limiter, Google Drive large-file support, bundled LGPL media tools, built-in media player, and Chrome / Edge <strong>Extension 2.0.7</strong> — distributed as a unified installer via <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.7">glee-download-extra</a>.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.7/GLee-Load-1.0.7-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำมาเย้ย โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7" height="28" />
-        </a>
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.7/GLee-Load-1.0.7-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำมาเย้ย โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7" height="28" align="absmiddle" /></a>
         &nbsp;<strong>โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7 (ตัวติดตั้งเดียว)</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
         &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.7">รายละเอียด โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7</a>
@@ -145,7 +117,7 @@
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
         <br />
-        <img src="images/screen-glee-load.png" alt="หน้าจอหลัก แมวดำมาเย้ย (GLee Load)" width="760" />
+        <img src="images/screen-glee-load.png" alt="หน้าจอหลัก แมวดำมาเย้ย (GLee Load)" width="680" />
       </details>
     </td>
   </tr>
