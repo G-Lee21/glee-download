@@ -44,21 +44,39 @@
     <td valign="top">
       <h3>แมวดำดูหนังมาเย้ย (GLee Play)</h3>
       <p>
-        โปรแกรมเล่นวิดีโอและเพลงบน Windows รองรับไฟล์หลากสกุล ปรับภาพ เสียง ซับไตเติล และธีมได้อิสระ<br />
-        <em>Fast Windows video and music player with wide format support, subtitle/audio controls, and customizable themes.</em>
+        โปรแกรมเล่นวิดีโอและเพลงบน Windows รองรับไฟล์หลากสกุล 3 ธีมมาตรฐาน (ขาว / ดำ / สีรุ้ง) จับภาพทันที เล่นวนเป็นค่าเริ่มต้น ปรับภาพ เสียง และซับไตเติลได้ครบ<br />
+        <em>Fast Windows video and music player with wide format support, 3 clean themes (White / Black / Candy), instant capture, default repeat playback, and full subtitle/audio controls.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.8/GLee-Play-1.0.8-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด GLee Play 1.0.8 · Download GLee Play 1.0.8" height="28" />
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.11/GLee-Play-1.0.11-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.0.11 · Download GLee Play 1.0.11" height="28" align="absmiddle" />
         </a>
-        &nbsp;<strong>รุ่น 1.0.8 (v1.0.8)</strong>
+        &nbsp;<strong>โปรแกรม 1.0.11</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.0.8">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;<code>62.87 MB</code>
+      </p>
+      <p>
+        <a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.0.11">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;SHA-256: <code>972d41f6ad0c0e7830aa58ea1ffb15fc59153f35879a6dcb548c266781e12716</code>
       </p>
       <details open>
-        <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
+        <summary><strong>ภาพหน้าจอ · Screenshots (3 ธีม: ขาวเรียบหรู · ดำเรียบหรู · สีรุ้งลูกกวาด)</strong></summary>
         <br />
-        <img src="images/screen-glee-play.jpg" alt="หน้าจอหลัก แมวดำดูหนังมาเย้ย (GLee Play)" width="760" />
+        <p><strong>ธีมขาวเรียบหรู (White — ค่าเริ่มต้น)</strong></p>
+        <img src="images/screen-glee-play-white.png" alt="หน้าจอหลัก แมวดำดูหนังมาเย้ย (GLee Play) ธีมขาวเรียบหรู" width="760" />
+        <br /><br />
+        <table>
+          <tr>
+            <td align="center" width="50%">
+              <strong>ธีมดำเรียบหรู (Black)</strong><br />
+              <img src="images/screen-glee-play-black.png" alt="แมวดำดูหนังมาเย้ย (GLee Play) ธีมดำเรียบหรู" width="370" />
+            </td>
+            <td align="center" width="50%">
+              <strong>ธีมสีรุ้งลูกกวาด (Candy)</strong><br />
+              <img src="images/screen-glee-play-candy.png" alt="แมวดำดูหนังมาเย้ย (GLee Play) ธีมสีรุ้งลูกกวาด" width="370" />
+            </td>
+          </tr>
+        </table>
       </details>
     </td>
   </tr>
