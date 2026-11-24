@@ -76,9 +76,9 @@
 
 ---
 
-## 4. แมวดำมาเย้ย (GLee Load) — โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7
+## 4. แมวดำมาเย้ย (GLee Load) — โปรแกรม 1.0.8 · ส่วนขยาย 1.0.8
 
-ตัวติดตั้งเดียว (`GLee-Load-1.0.7-Setup.exe`) เผยแพร่ที่คลัง `G-Lee21/glee-download-extra` ตรวจชิ้นส่วนครบทุกตัว (Rust 160 แพ็กเกจ + ต้นแบบตัวติดตั้ง `glee-installer-src v1.0.3` + UI Kit + ฟอนต์ + ไอคอน + `yt-dlp` + `QuickJS-ng` + `FFmpeg` รุ่น LGPLv3+ แบบ Shared DLL): **ไม่มีชิ้นส่วน GPL / AGPL (0 รายการ)**
+ตัวติดตั้งเดียว (`GLee-Load-1.0.8-Setup.exe`) เผยแพร่ที่คลัง `G-Lee21/glee-download-extra` ตรวจชิ้นส่วนครบทุกตัว (Rust 160 แพ็กเกจ + ต้นแบบตัวติดตั้ง `glee-installer-src v1.0.3` + UI Kit + ฟอนต์ + ไอคอน + `yt-dlp` + `QuickJS-ng` + `FFmpeg` รุ่น LGPLv3+ แบบ Shared DLL): **ไม่มีชิ้นส่วน GPL / AGPL (0 รายการ)**
 
 | ชิ้นส่วน | รุ่น | สัญญาอนุญาต | แบบ | ต้นทาง |
 |---|---|---|---|---|
