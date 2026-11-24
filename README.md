@@ -53,18 +53,22 @@
     <td valign="top">
       <h3>แมวดำดูหนังมาเย้ย (GLee Play)</h3>
       <p>
-        โปรแกรมเล่นวิดีโอและเพลงบน Windows รองรับไฟล์หลากสกุล 3 ธีมมาตรฐาน (ขาว / ดำ / สีรุ้ง) จับภาพทันที เล่นวนเป็นค่าเริ่มต้น ปรับภาพ เสียง และซับไตเติลได้ครบ<br />
-        <em>Fast Windows video and music player with wide format support, 3 clean themes (White / Black / Candy), instant capture, default repeat playback, and full subtitle/audio controls.</em>
+        โปรแกรมเล่นวิดีโอและเพลงบน Windows รองรับไฟล์หลากสกุล 3 ธีมมาตรฐาน (ขาว / ดำ / สีรุ้ง) สีปุ่มตามธีม จับภาพทันที เล่นวนเป็นค่าเริ่มต้น อัปเดตในโปรแกรมได้ ปรับภาพ เสียง และซับไตเติลได้ครบ<br />
+        <em>Fast Windows video and music player with wide format support, 3 clean themes (White / Black / Candy) with theme-matched controls, instant capture, default repeat playback, built-in auto-updates, and full subtitle/audio controls.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.11/GLee-Play-1.0.11-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.0.11 · Download GLee Play 1.0.11" height="28" align="absmiddle" /></a>
-        &nbsp;<strong>โปรแกรม 1.0.11</strong>
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.13/GLee-Play-1.0.13-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.0.13 · Download GLee Play 1.0.13" height="28" align="absmiddle" /></a>
+        &nbsp;<strong>โปรแกรม 1.0.13</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<code>62.87 MB</code>
+        &nbsp;·&nbsp;<code>62.93 MB</code>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.0.11">รายละเอียดรุ่น · Release notes</a>
-        &nbsp;·&nbsp;SHA-256: <code>972d41f6ad0c0e7830aa58ea1ffb15fc59153f35879a6dcb548c266781e12716</code>
+        <a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.0.13">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;SHA-256: <code>bd11388fc6b6acd3c23edae6f9714b20099759fb60fffd94d0aef3a0617aabcb</code>
+      </p>
+      <p>
+        ผู้ที่ลงรุ่นก่อน 1.0.12 ให้โหลดลงทับ 1 ครั้ง ต่อจากนั้นอัปเดตในโปรแกรมได้<br />
+        <em>Users on versions earlier than 1.0.12: download and install once to enable in-app auto-updates.</em>
       </p>
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshots (3 ธีม: ขาวเรียบหรู · ดำเรียบหรู · สีรุ้งลูกกวาด)</strong></summary>
