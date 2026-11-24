@@ -90,17 +90,17 @@
     <td valign="top">
       <h3>แมวดำมาเย้ย (GLee Load)</h3>
       <p>
-        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดแล้วโหลดต่อ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive รวมตัวดึงคลิป ตัวรวมภาพกับเสียง (FFmpeg รุ่น LGPL) ตัดช่วง และส่วนขยาย Chrome / Edge (รุ่น 1.2.6) ในตัวติดตั้งเดียวที่ <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">glee-download-extra</a><br />
-        <em>Fast Windows multi-part download manager and media saver with pause/resume, queues, scheduler, speed limiter, Google Drive large-file support, bundled LGPL media tools, and Chrome / Edge extension v1.2.6 — distributed as a unified installer via <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">glee-download-extra</a>.</em>
+        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดแล้วโหลดต่อ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive รวมตัวดึงคลิป ตัวรวมภาพกับเสียง (FFmpeg รุ่น LGPL) ตัดช่วง เครื่องเล่นในตัว และส่วนขยาย Chrome / Edge (<strong>ส่วนขยาย 2.0.7</strong>) ในตัวติดตั้งเดียวที่ <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.7">glee-download-extra</a><br />
+        <em>Fast Windows multi-part download manager and media saver with pause/resume, queues, scheduler, speed limiter, Google Drive large-file support, bundled LGPL media tools, built-in media player, and Chrome / Edge <strong>Extension 2.0.7</strong> — distributed as a unified installer via <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.7">glee-download-extra</a>.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.6/GLee-Load-1.0.6-Setup.exe">
-          <img src="images/badge-download.svg" alt="ดาวน์โหลด GLee Load 1.0.6 · Download GLee Load 1.0.6" height="28" />
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.7/GLee-Load-1.0.7-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำมาเย้ย โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7" height="28" />
         </a>
-        &nbsp;<strong>รุ่น 1.0.6 (v1.0.6 · ตัวติดตั้งเดียว)</strong>
+        &nbsp;<strong>โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7 (ตัวติดตั้งเดียว)</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">รายละเอียดรุ่น 1.0.6 · Release notes</a>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download/releases/tag/load-v1.0.5">รุ่นเดิม 1.0.5</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.7">รายละเอียด โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.6">รุ่นก่อนหน้า: โปรแกรม 1.0.6 · ส่วนขยาย 1.2.6</a>
       </p>
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
@@ -139,10 +139,10 @@
 1. ดาวน์โหลดไฟล์ `GLee-*-Portable.zip` จากหน้า [Releases](https://github.com/G-Lee21/glee-download/releases)
 2. แตกไฟล์ (Extract All) ลงในแฟ้มที่ต้องการ แล้วเปิดไฟล์ `.exe` ของโปรแกรมได้ทันทีโดยไม่ต้องติดตั้ง
 
-### ส่วนขยาย Chrome / Edge ของแมวดำมาเย้ย (GLee Load) · Browser Extension Setup
-ส่วนขยายมาพร้อมกับตัวติดตั้ง `GLee-Load-1.0.5-Setup.exe` อยู่แล้ว — เปิดหน้า **ตั้งค่า** ในแมวดำมาเย้ย แล้วกดปุ่ม **"ติดตั้งส่วนขยาย Chrome / Edge"** เพื่อเปิดแฟ้มส่วนขยาย จากนั้นทำตาม 3 ขั้นตอน:
+### ส่วนขยาย Chrome / Edge ของแมวดำมาเย้ย (GLee Load — โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7) · Browser Extension Setup
+ส่วนขยายมาพร้อมกับตัวติดตั้ง `GLee-Load-1.0.7-Setup.exe` อยู่แล้ว — เปิดแท็บ **ตั้งนิสัยแมว** ในแมวดำมาเย้ย แล้วกดปุ่ม **"พกแมวขึ้น Chrome / Edge"** เพื่อเปิดแฟ้มส่วนขยาย จากนั้นทำตาม 3 ขั้นตอน:
 1. เปิด `chrome://extensions` (หรือ `edge://extensions`) แล้วเปิด **"โหมดนักพัฒนาซอฟต์แวร์" (Developer mode)**
-2. กด **"โหลดส่วนขยายที่แตกไฟล์แล้ว" (Load unpacked)** แล้วเลือกแฟ้มส่วนขยายที่เปิดขึ้นมา
+2. กด **"โหลดส่วนขยายที่แตกไฟล์แล้ว" (Load unpacked)** แล้วเลือกแฟ้ม `ส่วนขยาย Chrome แมวดำมาเย้ย` ที่เปิดขึ้นมา *(หากเคยลงรุ่นก่อนเช่น ส่วนขยาย 1.2.6 ให้กดปุ่มรีโหลด ⟳ บนการ์ดส่วนขยายเพื่ออัปเดตเป็น ส่วนขยาย 2.0.7)*
 3. ใช้งานได้ทันที *(กด `Alt` ค้างตอนคลิกลิงก์หากต้องการให้เบราว์เซอร์โหลดเอง และไฟล์เล็กกว่า 1 MB จะปล่อยให้เบราว์เซอร์โหลดอัตโนมัติ)*
 
 ---

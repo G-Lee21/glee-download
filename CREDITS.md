@@ -76,13 +76,13 @@
 
 ---
 
-## 4. แมวดำมาเย้ย (GLee Load) — รุ่นล่าสุด v1.0.5
+## 4. แมวดำมาเย้ย (GLee Load) — โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7
 
-ตรวจชิ้นส่วนในตัวหลักครบทุกตัว (Rust 159 แพ็กเกจ + ตัวติดตั้ง 65 แพ็กเกจ + UI Kit + ฟอนต์ + ไอคอน): **ใช้ได้อิสระทั้งหมด 100% — ไม่มีชิ้นส่วน GPL / AGPL / LGPL ในชุดหลัก** *(ชิ้นส่วนดึงคลิปโซเชียลและ FFmpeg รุ่น LGPLv3+ แยกแจกไว้ในคลัง `G-Lee21/glee-download-extra`)*
+ตัวติดตั้งเดียว (`GLee-Load-1.0.7-Setup.exe`) เผยแพร่ที่คลัง `G-Lee21/glee-download-extra` ตรวจชิ้นส่วนครบทุกตัว (Rust 160 แพ็กเกจ + ต้นแบบตัวติดตั้ง `glee-installer-src v1.0.3` + UI Kit + ฟอนต์ + ไอคอน + `yt-dlp` + `QuickJS-ng` + `FFmpeg` รุ่น LGPLv3+ แบบ Shared DLL): **ไม่มีชิ้นส่วน GPL / AGPL (0 รายการ)**
 
 | ชิ้นส่วน | รุ่น | สัญญาอนุญาต | แบบ | ต้นทาง |
 |---|---|---|---|---|
-| Rust Runtime & Crates (`tokio`, `serde`, `ureq`, `rustls`, `ring`, `ed25519-dalek`, `sha2`, `chrono`, `uuid`, `windows`, ฯลฯ — ตรวจครบ 159 ตัว) | ล็อกใน `Cargo.lock` | MIT / Apache-2.0 / BSD-3-Clause / ISC / Zlib / Unicode-3.0 / CDLA-Permissive-2.0 | ใช้ได้อิสระ | https://crates.io/ |
+| Rust Runtime & Crates (`tokio`, `serde`, `ureq`, `rustls`, `ring`, `ed25519-dalek`, `sha2`, `chrono`, `uuid`, `windows`, ฯลฯ — ตรวจครบ 160 ตัว) | ล็อกใน `Cargo.lock` | MIT / Apache-2.0 / BSD-3-Clause / ISC / Zlib / Unicode-3.0 / CDLA-Permissive-2.0 | ใช้ได้อิสระ | https://crates.io/ |
 | IBM Plex Sans Thai & Mali | 1.x | SIL OFL 1.1 | ฟอนต์ใช้ได้อิสระ | https://github.com/IBM/plex · https://fonts.google.com/specimen/Mali |
 | Lucide Icons | 1.77.0 | ISC | ใช้ได้อิสระ | https://lucide.dev/ |
 
