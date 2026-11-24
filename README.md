@@ -23,17 +23,39 @@
     <td valign="top">
       <h3>แมวดำตัดเพลงมาเย้ย (GLee Cut)</h3>
       <p>
-        โปรแกรมตัดต่อ แต่งเสียง และแปลงไฟล์เสียงบน Windows ใช้งานได้ครบแบบไม่ต้องต่อเน็ต ไฟล์เสียงอยู่ในเครื่องคุณ 100%<br />
-        <em>Offline-first Windows audio editor, effects suite, and batch converter. Your audio files stay 100% on your PC.</em>
+        โปรแกรมตัดต่อ แต่งเสียง และแปลงไฟล์เสียงบน Windows 3 ธีมมาตรฐาน (ขาว · ดำ · สีรุ่ง) ใช้งานได้ครบแบบไม่ต้องต่อเน็ต ไฟล์เสียงอยู่ในเครื่องคุณ 100%<br />
+        <em>Offline-first Windows audio editor, effects suite, and batch converter with 3 clean themes (White · Black · Candy). Your audio files stay 100% on your PC.</em>
       </p>
       <p>
-        <img src="images/badge-coming-soon.svg" alt="เร็วๆ นี้ · Coming soon" height="26" />
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/cut-v1.2.7/GLee-Cut-1.2.7-Setup.exe">
+          <img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำตัดเพลงมาเย้ย โปรแกรม 1.2.7 · Download GLee Cut 1.2.7" height="28" align="absmiddle" />
+        </a>
+        &nbsp;<strong>โปรแกรม 1.2.7</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+        &nbsp;·&nbsp;<code>6.32 MB</code>
+      </p>
+      <p>
+        <a href="https://github.com/G-Lee21/glee-download/releases/tag/cut-v1.2.7">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;SHA-256: <code>ce840773f34df0d008967ecc6de396a627f4c44d9ef8204bd2bce744d140bb33</code>
       </p>
       <details open>
-        <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
+        <summary><strong>ภาพหน้าจอ · Screenshots (3 ธีม: ขาว · ดำ · สีรุ่ง)</strong></summary>
         <br />
-        <img src="images/screen-glee-cut.png" alt="หน้าจอหลัก แมวดำตัดเพลงมาเย้ย (GLee Cut)" width="760" />
+        <p><strong>ธีมขาว (White — ค่าเริ่มต้น)</strong></p>
+        <img src="images/screen-glee-cut-white.png" alt="หน้าจอหลัก แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมขาว" width="760" />
+        <br /><br />
+        <table>
+          <tr>
+            <td align="center" width="50%">
+              <strong>ธีมดำ (Black)</strong><br />
+              <img src="images/screen-glee-cut-black.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมดำ" width="370" />
+            </td>
+            <td align="center" width="50%">
+              <strong>ธีมสีรุ่ง (Candy)</strong><br />
+              <img src="images/screen-glee-cut-candy.png" alt="แมวดำตัดเพลงมาเย้ย (GLee Cut) ธีมสีรุ่ง" width="370" />
+            </td>
+          </tr>
+        </table>
       </details>
     </td>
   </tr>
