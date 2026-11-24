@@ -57,14 +57,14 @@
         <em>Fast Windows video and music player with wide format support, 3 clean themes (White / Black / Candy) with theme-matched controls, instant capture, default repeat playback, built-in auto-updates, and full subtitle/audio controls.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.13/GLee-Play-1.0.13-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.0.13 · Download GLee Play 1.0.13" height="28" align="absmiddle" /></a>
-        &nbsp;<strong>โปรแกรม 1.0.13</strong>
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.0/GLee-Play-1.1.0-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.1.0 · Download GLee Play 1.1.0" height="28" align="absmiddle" /></a>
+        &nbsp;<strong>โปรแกรม 1.1.0</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<code>62.93 MB</code>
+        &nbsp;·&nbsp;<code>62.95 MB</code>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.0.13">รายละเอียดรุ่น · Release notes</a>
-        &nbsp;·&nbsp;SHA-256: <code>bd11388fc6b6acd3c23edae6f9714b20099759fb60fffd94d0aef3a0617aabcb</code>
+        <a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.1.0">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;SHA-256: <code>019d6fc6b6e5911bb93484b2f54a9596543c0078e24e395f9a70023784465739</code>
       </p>
       <p>
         ผู้ที่ลงรุ่นก่อน 1.0.12 ให้โหลดลงทับ 1 ครั้ง ต่อจากนั้นอัปเดตในโปรแกรมได้<br />
