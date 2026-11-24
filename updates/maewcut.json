@@ -1,0 +1,32 @@
+{
+  "app": "maewcut",
+  "version": "1.2.7",
+  "date": "2026-11-24",
+  "min_auto": "1.2.7",
+  "notes": {
+    "th": [
+      "หน้าตาใหม่ตามชุดกลาง GLee UI Kit แบบโปรแกรมบนคอม คงตำแหน่งปุ่ม เมนู และการทำงานเสียงเดิมทุกอย่าง",
+      "เพิ่ม 3 ธีมมาตรฐาน (ขาว · ดำ · สีรุ่ง) สลับได้ทันทีจากปุ่มมุมขวาบนข้างบัญชี หรือในตัวเลือก (ผู้ใช้เดิมจากรุ่นก่อนเปิดเป็นธีมดำอัตโนมัติ)",
+      "เปลี่ยนไอคอนทั้งโปรแกรมเป็นชุด Lucide ครบทุกแท็บและเมนู พร้อมหน้าต่างมุมเหลี่ยมบน Windows 11 และหน้าต่างย่อยทุกอันใช้ผิวเดียวกันครบ 3 ธีม",
+      "ปรับรูปคลื่นเสียงและปุ่มควบคุมด้านล่างให้คมชัดครบทั้ง 3 ธีม"
+    ],
+    "en": [
+      "Refreshed desktop interface powered by GLee UI Kit while preserving 100% of audio processing, button positions, and menus",
+      "Added 3 standard themes (White · Black · Candy), switchable from the top-right theme button or Options (existing users keep Black automatically)",
+      "Upgraded all toolbar, menu, and dialog icons to Lucide with square corners on Windows 11 and unified styling across all sub-dialogs in all 3 themes",
+      "Improved waveform and transport readability across all 3 themes"
+    ]
+  },
+  "announcement": {
+    "th": "",
+    "en": ""
+  },
+  "files": {
+    "win-setup": {
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/cut-v1.2.7/GLee-Cut-1.2.7-Setup.exe",
+      "size": 6625898,
+      "sha256": "ce840773f34df0d008967ecc6de396a627f4c44d9ef8204bd2bce744d140bb33"
+    }
+  },
+  "sig": "c02f7PBYe73C3aToh7KLWzFqFHTIf22XKTM+QSUbhPWI9zjnxsCsBmEyZkGvw1cSkpEGVLLLq0FF2D8MykxLCA=="
+}
