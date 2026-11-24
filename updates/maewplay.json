@@ -1,20 +1,20 @@
 {
   "app": "maewplay",
-  "version": "1.0.13",
+  "version": "1.1.0",
   "date": "2026-11-24",
   "min_auto": "1.0.12",
   "notes": {
     "th": [
-      "ปรับสีปุ่มเล่น ปุ่มที่เปิดใช้อยู่ แถบเลื่อนเวลา และแถบระดับเสียงให้ตรงกับชุดหน้าตากลาง glee-ui-kit ครบทั้ง 3 ธีม",
-      "ธีมขาวเรียบหรู: ปุ่มเล่นและปุ่มที่เปิดใช้เป็นสีดำไอคอนขาว · ธีมดำเรียบหรู: ปุ่มเล่นและปุ่มที่เปิดใช้เป็นสีขาวไอคอนดำ",
-      "ธีมสีรุ้ง (ลูกกวาด): ปุ่มเล่นเม็ดยามันวาวสีชมพู ปุ่มที่เปิดใช้และแถบเลื่อนเป็นสีชมพูตามสีหลักของธีม (แทนสีม่วงเดิม)",
-      "คงกล่องไอคอนสีตามความหมายในหน้าตั้งค่า F2 และเมนูคลิกขวา รวมถึงระบบอัปเดตในตัวและการเล่นวนซ้ำเป็นค่าเริ่มต้นครบถ้วน"
+      "แก้บั๊กขอบหน้าต่างและปุ่มหายกลางทางขณะดูหนังยาว (กู้คืนหน้าตาอัตโนมัติโดยหนังและเสียงเล่นต่อไม่สะดุด · กด Esc คืนหน้าต่างปกติเสมอ · แก้แถบดำตอนขยายเต็ม · กันจอดับขณะเล่นวิดีโอ)",
+      "เพิ่มบันทึกอาการหน้าตาแบบไม่ระบุตัวตน (ไม่เก็บชื่อไฟล์หรือข้อมูลส่วนตัว, ไม่เกิน 1 MB) พร้อมปุ่ม \"เปิดแฟ้มบันทึก\" ในหน้าเกี่ยวกับโปรแกรม",
+      "ยกระดับระบบอัปเดตมาตรฐานใหม่: เช็กทุกครั้งที่เปิด · ปุ่ม \"ไว้ทีหลัง\" พัก 3 วันพร้อมจุดเตือนเล็กมุมซ้ายบน · แสดง % / MB / MB/s / เวลาที่เหลือสดไม่กะพริบ · ตัดเมื่อค้างเกิน 15 วิพร้อมปุ่มลองใหม่",
+      "ไอคอนโปรแกรมมุมมน 22% สม่ำเสมอครบทุกขนาด (16–256 จุด) และรองรับปุ่ม F11 เข้า-ออกเต็มจอ"
     ],
     "en": [
-      "Updated Play button, active toggle buttons, seekbar, and volume slider colors to match glee-ui-kit across all 3 themes",
-      "White theme: black Play & active buttons with white icons · Black theme: white Play & active buttons with black icons",
-      "Candy theme: glossy pink pill Play button, pink active buttons & sliders (replacing purple)",
-      "Preserved semantic icon boxes in F2 Settings & context menus, in-app auto-updater, and default repeat playback"
+      "Fixed borders and buttons vanishing during long video playback (automatic UI recovery keeping video/audio uninterrupted, guaranteed Esc normal recovery, maximized layout fix, display keep-awake)",
+      "Added anonymous local UI event logger (<= 1 MB, zero filenames/PII) with \"Open Log Folder\" button in About",
+      "Upgraded built-in auto-updater: checks every startup, 3-day \"Later\" snooze with subtle top-left dot, live % / MB / MB/s / ETA without flicker, 15s stall timeout with Retry",
+      "Uniform 22% rounded corners across all 16–256 px app icons and F11 fullscreen shortcut"
     ]
   },
   "announcement": {
@@ -23,10 +23,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.0.13/GLee-Play-1.0.13-Setup.exe",
-      "size": 65986423,
-      "sha256": "bd11388fc6b6acd3c23edae6f9714b20099759fb60fffd94d0aef3a0617aabcb"
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.0/GLee-Play-1.1.0-Setup.exe",
+      "size": 66009586,
+      "sha256": "019d6fc6b6e5911bb93484b2f54a9596543c0078e24e395f9a70023784465739"
     }
   },
-  "sig": "OkKdDloMW1oYVQvCbfRSC9mb1uxaf117v1eOAPJrmhP0hJGeWQnMtooM9gDJCVdo9Ol8UtmvWC+0JE+cNdPNCw=="
+  "sig": "zElCRxjQrq9GA+10XKsr57CEMSRa641D4QEHOUnS2LupjX31qMbvAJEaOCz257DXyt7Tv/FamZZFVDveQHAhBw=="
 }
