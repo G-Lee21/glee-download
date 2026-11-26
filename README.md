@@ -111,15 +111,19 @@
     <td valign="top">
       <h3>แมวดำมาเย้ย (GLee Load)</h3>
       <p>
-        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดแล้วโหลดต่อ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive รวมตัวดึงคลิป ตัวรวมภาพกับเสียง (FFmpeg รุ่น LGPL) ตัดช่วง เครื่องเล่นในตัว และส่วนขยาย Chrome / Edge (<strong>ส่วนขยาย 1.0.8</strong>) ในตัวติดตั้งเดียวที่ <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.8">glee-download-extra</a><br />
-        <em>Fast Windows multi-part download manager and media saver with pause/resume, queues, scheduler, speed limiter, Google Drive large-file support, bundled LGPL media tools, built-in media player, and Chrome / Edge <strong>Extension 1.0.8</strong> — distributed as a unified installer via <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.8">glee-download-extra</a>.</em>
+        โปรแกรมช่วยดาวน์โหลดไฟล์และคลิปโซเชียลความเร็วสูงบน Windows แบ่งหลายท่อน หยุดแล้วโหลดต่อ จัดคิว ตั้งเวลา จำกัดความเร็ว รองรับไฟล์ใหญ่จาก Google Drive รวมตัวดึงคลิป ตัวรวมภาพกับเสียง (FFmpeg รุ่น LGPL) ตัดช่วง เครื่องเล่นในตัว และส่วนขยาย Chrome / Edge (<strong>ส่วนขยาย 1.1.8</strong>) ในตัวติดตั้งเดียวที่ <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.8">glee-download-extra</a><br />
+        <em>Fast Windows multi-part download manager and media saver with pause/resume, queues, scheduler, speed limiter, Google Drive large-file support, bundled LGPL media tools, built-in media player, and Chrome / Edge <strong>Extension 1.1.8</strong> — distributed as a unified installer via <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.8">glee-download-extra</a>.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.0.8/GLee-Load-1.0.8-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำมาเย้ย โปรแกรม 1.0.8 · ส่วนขยาย 1.0.8" height="28" align="absmiddle" /></a>
-        &nbsp;<strong>โปรแกรม 1.0.8 · ส่วนขยาย 1.0.8 (ตัวติดตั้งเดียว)</strong>
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/download/load-v1.1.8/GLee-Load-1.1.8-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำมาเย้ย โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8" height="28" align="absmiddle" /></a>
+        &nbsp;<strong>โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.8">รายละเอียด โปรแกรม 1.0.8 · ส่วนขยาย 1.0.8</a>
-        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.0.7">รุ่นก่อนหน้า: โปรแกรม 1.0.7 · ส่วนขยาย 2.0.7</a>
+        &nbsp;·&nbsp;<code>76.47 MB</code>
+      </p>
+      <p>
+        <a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.8">รายละเอียด โปรแกรม 1.1.8 · ส่วนขยาย 1.1.8</a>
+        &nbsp;·&nbsp;<a href="https://github.com/G-Lee21/glee-download-extra/releases/tag/load-v1.1.4">รุ่นก่อนหน้า: โปรแกรม 1.1.4 · ส่วนขยาย 1.1.4</a>
+        &nbsp;·&nbsp;SHA-256: <code>5ba39cda54cce778abfa11d85a79ac88dc6869227d0d74f041d62d8158d01255</code>
       </p>
       <details open>
         <summary><strong>ภาพหน้าจอ · Screenshot</strong></summary>
