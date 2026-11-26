@@ -1,20 +1,20 @@
 {
   "app": "maewplay",
-  "version": "1.1.0",
-  "date": "2026-11-24",
+  "version": "1.1.7",
+  "date": "2026-11-26",
   "min_auto": "1.0.12",
   "notes": {
     "th": [
-      "แก้บั๊กขอบหน้าต่างและปุ่มหายกลางทางขณะดูหนังยาว (กู้คืนหน้าตาอัตโนมัติโดยหนังและเสียงเล่นต่อไม่สะดุด · กด Esc คืนหน้าต่างปกติเสมอ · แก้แถบดำตอนขยายเต็ม · กันจอดับขณะเล่นวิดีโอ)",
-      "เพิ่มบันทึกอาการหน้าตาแบบไม่ระบุตัวตน (ไม่เก็บชื่อไฟล์หรือข้อมูลส่วนตัว, ไม่เกิน 1 MB) พร้อมปุ่ม \"เปิดแฟ้มบันทึก\" ในหน้าเกี่ยวกับโปรแกรม",
-      "ยกระดับระบบอัปเดตมาตรฐานใหม่: เช็กทุกครั้งที่เปิด · ปุ่ม \"ไว้ทีหลัง\" พัก 3 วันพร้อมจุดเตือนเล็กมุมซ้ายบน · แสดง % / MB / MB/s / เวลาที่เหลือสดไม่กะพริบ · ตัดเมื่อค้างเกิน 15 วิพร้อมปุ่มลองใหม่",
-      "ไอคอนโปรแกรมมุมมน 22% สม่ำเสมอครบทุกขนาด (16–256 จุด) และรองรับปุ่ม F11 เข้า-ออกเต็มจอ"
+      "สร้างใหม่เป็นโปรแกรม Windows แท้ (Native WPF .NET 10 + libmpv) เลิกใช้ WebView2 เหลือ 1 โปรเซสหลัก แก้ปัญหาทาสก์บาร์ Windows 11 ดำเมื่อปักหมุดแล้วสลับหน้าต่างให้หายถาวร",
+      "เลิกแบก .NET ไว้ในตัวโปรแกรม (framework-dependent win-x64) ลดขนาดตัวติดตั้งเหลือ 59.67 MB และพื้นที่หลังติดตั้งเหลือ 189.62 MB",
+      "ตัวติดตั้งตรวจและลง .NET 10 Desktop Runtime (x64) จาก Microsoft ให้อัตโนมัติพร้อมตรวจลายเซ็นดิจิทัลหากเครื่องยังไม่มี",
+      "ย้ายชื่อแฟ้มติดตั้งเป็นมาตรฐาน แมวดำดูหนังมาเย้ย (GLee Play) คงการตั้งค่าและข้อมูลเดิมครบ 100%"
     ],
     "en": [
-      "Fixed borders and buttons vanishing during long video playback (automatic UI recovery keeping video/audio uninterrupted, guaranteed Esc normal recovery, maximized layout fix, display keep-awake)",
-      "Added anonymous local UI event logger (<= 1 MB, zero filenames/PII) with \"Open Log Folder\" button in About",
-      "Upgraded built-in auto-updater: checks every startup, 3-day \"Later\" snooze with subtle top-left dot, live % / MB / MB/s / ETA without flicker, 15s stall timeout with Retry",
-      "Uniform 22% rounded corners across all 16–256 px app icons and F11 fullscreen shortcut"
+      "Rebuilt as a pure native Windows WPF (.NET 10) + libmpv player with zero WebView2, single-process footprint, and permanent fix for Windows 11 taskbar black-bar artifacts",
+      "Framework-dependent win-x64 packaging shrinks installer to 59.67 MB and installed footprint to 189.62 MB",
+      "Installer automatically detects, downloads, verifies Microsoft digital signature, and installs .NET 10 Desktop Runtime (x64) if missing",
+      "Standardized install folder to แมวดำดูหนังมาเย้ย (GLee Play) with 100% compatibility with existing settings"
     ]
   },
   "announcement": {
@@ -23,10 +23,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.0/GLee-Play-1.1.0-Setup.exe",
-      "size": 66009586,
-      "sha256": "019d6fc6b6e5911bb93484b2f54a9596543c0078e24e395f9a70023784465739"
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.7/GLee-Play-1.1.7-Setup.exe",
+      "size": 62570808,
+      "sha256": "32ac6fb8e3fd296b124f63cd455fcb77d0c95460fdac6ebde4fd382c3c40502b"
     }
   },
-  "sig": "zElCRxjQrq9GA+10XKsr57CEMSRa641D4QEHOUnS2LupjX31qMbvAJEaOCz257DXyt7Tv/FamZZFVDveQHAhBw=="
+  "sig": "WMr9ZX3QHF/8/HpnMAi+02gVniRdlZROmj9fPrFiI8wpEPgtWOxmlGG9oYigyj1znDJiZhdv7nvYGiX4dnqqBg=="
 }
