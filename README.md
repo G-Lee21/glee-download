@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td width="104" align="center" valign="top">
-      <img src="images/icon-glee-play.png" alt="แมวดำดูหนังมาเย้ย (GLee Play)" width="76" height="76" />
+      <img src="images/icon-glee-play-v2.png" alt="แมวดำดูหนังมาเย้ย (GLee Play)" width="76" height="76" />
     </td>
     <td valign="top">
       <h3>แมวดำดูหนังมาเย้ย (GLee Play)</h3>
