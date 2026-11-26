@@ -1,0 +1,36 @@
+{
+  "app": "maewstock",
+  "version": "1.0.6",
+  "date": "2026-11-26",
+  "released_at": "2026-11-26",
+  "min_auto": "1.0.6",
+  "url": "https://github.com/G-Lee21/glee-download/releases/download/stock-v1.0.6/GLee-Stock-1.0.6-Setup.exe",
+  "size": 6441408,
+  "sha256": "7c3ca261329f782a13c16864527acf774d29331e4098d21b8c6340b0453d4d85",
+  "notes_th": "แมวดำขายภาพมาเย้ย (GLee Stock) — ช่วยเตรียมภาพลงขายบน Adobe Stock (ตอนนี้ใช้ API และเชื่อมต่อ MCP เพื่อคิดคีย์เวิร์ด ส่วนเมนูอื่นๆ รออัปเดต)|แก้การลากคลุมเลือกรูปในคลัง: ลากกรอบใหม่โดยไม่กดปุ่มค้างจะล้างติ๊กเดิมทั้งหมด (ลากบนที่ว่างจะล้างติ๊กหมด) ขณะที่ Ctrl+ลากและคลิกแบบ Windows คงเดิม|ปรับปรุงหน้าต่างดูตัวอย่างวิดีโอ: เปิดแล้วเล่นทันที แถบปุ่มเรียง ◀ ▷ ▶ โดยปุ่มเล่น/หยุดอยู่กลางและใหญ่กว่า เข้ากับครบทั้ง 3 ธีม กด ◀/▶ หรือ ←/→ ถอย/เดินหน้า 5 วินาทีโดยเล่นต่อไม่หยุด และ PageUp/PageDown เปลี่ยนคลิป",
+  "notes_en": "GLee Stock — Prepare stock photos and videos for Adobe Stock (currently supports AI API and MCP connection for keyword generation; other menus coming in future updates)|Fixed marquee drag selection in Library: plain marquee clears previous checkmarks (empty-space drag clears all), while Ctrl+drag and Windows-style clicks remain unchanged|Upgraded Video Lightbox preview: plays immediately on open, centered larger Play/Pause in ◀ ▷ ▶ layout across all 3 themes, ◀/▶ and ←/→ seek ±5s continuously, and PageUp/PageDown switch clips",
+  "notes": {
+    "th": [
+      "แมวดำขายภาพมาเย้ย (GLee Stock) — ช่วยเตรียมภาพลงขายบน Adobe Stock (ตอนนี้ใช้ API และเชื่อมต่อ MCP เพื่อคิดคีย์เวิร์ด ส่วนเมนูอื่นๆ รออัปเดต)",
+      "แก้การลากคลุมเลือกรูปในคลัง: ลากกรอบใหม่โดยไม่กดปุ่มค้างจะล้างติ๊กเดิมทั้งหมด (ลากบนที่ว่างจะล้างติ๊กหมด) ขณะที่ Ctrl+ลากและคลิกแบบ Windows คงเดิม",
+      "ปรับปรุงหน้าต่างดูตัวอย่างวิดีโอ: เปิดแล้วเล่นทันที แถบปุ่มเรียง ◀ ▷ ▶ โดยปุ่มเล่น/หยุดอยู่กลางและใหญ่กว่า เข้ากับครบทั้ง 3 ธีม กด ◀/▶ หรือ ←/→ ถอย/เดินหน้า 5 วินาทีโดยเล่นต่อไม่หยุด และ PageUp/PageDown เปลี่ยนคลิป"
+    ],
+    "en": [
+      "GLee Stock — Prepare stock photos and videos for Adobe Stock (currently supports AI API and MCP connection for keyword generation; other menus coming in future updates)",
+      "Fixed marquee drag selection in Library: plain marquee clears previous checkmarks (empty-space drag clears all), while Ctrl+drag and Windows-style clicks remain unchanged",
+      "Upgraded Video Lightbox preview: plays immediately on open, centered larger Play/Pause in ◀ ▷ ▶ layout across all 3 themes, ◀/▶ and ←/→ seek ±5s continuously, and PageUp/PageDown switch clips"
+    ]
+  },
+  "announcement": {
+    "th": "",
+    "en": ""
+  },
+  "files": {
+    "win-setup": {
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/stock-v1.0.6/GLee-Stock-1.0.6-Setup.exe",
+      "size": 6441408,
+      "sha256": "7c3ca261329f782a13c16864527acf774d29331e4098d21b8c6340b0453d4d85"
+    }
+  },
+  "sig": "ki2W5mlxWiI3T3bAjRezeb0VPKxuWQcoZlXoARRTEBC32gYuVlSTc//YZTswhSBzYaqi6fUH+9NIjuevNZMzDQ=="
+}
