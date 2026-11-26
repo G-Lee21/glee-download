@@ -132,6 +132,28 @@
       </details>
     </td>
   </tr>
+  <tr>
+    <td width="104" align="center" valign="top">
+      <img src="images/icon-glee-stock.png" alt="แมวดำขายภาพมาเย้ย (GLee Stock)" width="76" height="76" />
+    </td>
+    <td valign="top">
+      <h3>แมวดำขายภาพมาเย้ย (GLee Stock)</h3>
+      <p>
+        แมวดำขายภาพมาเย้ย (GLee Stock) — ช่วยเตรียมภาพลงขายบน Adobe Stock<br />
+        ตอนนี้ใช้ API และเชื่อมต่อ MCP เพื่อคิดคีย์เวิร์ด ส่วนเมนูอื่นๆ รออัปเดต
+      </p>
+      <p>
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/stock-v1.0.6/GLee-Stock-1.0.6-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำขายภาพมาเย้ย โปรแกรม 1.0.6 · Download GLee Stock 1.0.6" height="28" align="absmiddle" /></a>
+        &nbsp;<strong>โปรแกรม 1.0.6</strong>
+        &nbsp;<code>Windows 10 / 11 (64-bit)</code>
+        &nbsp;·&nbsp;<code>6.14 MB</code>
+      </p>
+      <p>
+        <a href="https://github.com/G-Lee21/glee-download/releases/tag/stock-v1.0.6">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;SHA-256: <code>7c3ca261329f782a13c16864527acf774d29331e4098d21b8c6340b0453d4d85</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
 > **หมายเหตุ / Note:** โปรแกรมที่มีปุ่มดาวน์โหลดพร้อมใช้งานแล้วในหน้า [Releases](https://github.com/G-Lee21/glee-download/releases) · โปรแกรมที่ขึ้นป้าย "เร็วๆ นี้" กำลังทยอยเผยแพร่ · Apps with a Download button are available now on [Releases](https://github.com/G-Lee21/glee-download/releases); others are coming soon.
