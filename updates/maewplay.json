@@ -1,20 +1,18 @@
 {
   "app": "maewplay",
-  "version": "1.1.7",
-  "date": "2026-11-26",
+  "version": "1.1.8",
+  "date": "2026-11-27",
   "min_auto": "1.0.12",
   "notes": {
     "th": [
-      "สร้างใหม่เป็นโปรแกรม Windows แท้ (Native WPF .NET 10 + libmpv) เลิกใช้ WebView2 เหลือ 1 โปรเซสหลัก แก้ปัญหาทาสก์บาร์ Windows 11 ดำเมื่อปักหมุดแล้วสลับหน้าต่างให้หายถาวร",
-      "เลิกแบก .NET ไว้ในตัวโปรแกรม (framework-dependent win-x64) ลดขนาดตัวติดตั้งเหลือ 59.67 MB และพื้นที่หลังติดตั้งเหลือ 189.62 MB",
-      "ตัวติดตั้งตรวจและลง .NET 10 Desktop Runtime (x64) จาก Microsoft ให้อัตโนมัติพร้อมตรวจลายเซ็นดิจิทัลหากเครื่องยังไม่มี",
-      "ย้ายชื่อแฟ้มติดตั้งเป็นมาตรฐาน แมวดำดูหนังมาเย้ย (GLee Play) คงการตั้งค่าและข้อมูลเดิมครบ 100%"
+      "เล่นไฟล์เสียงทุกชนิด (MP3, WAV, FLAC, M4A, OGG ฯลฯ) ควบคุมได้เหมือนวิดีโอ: หมุนลูกกลิ้งเมาส์เพิ่ม/ลดเสียง และดับเบิลคลิกที่จอหรือการ์ดเพลงเพื่อขยาย/ย่อเต็มจอ",
+      "กดค้างแล้วลากตรงพื้นที่ว่างส่วนใดของหน้าต่างโปรแกรมก็ได้เพื่อย้ายตำแหน่งหน้าต่าง โดยปุ่ม เมนู แถบเวลา และแถบเสียงยังคงทำงานตามเดิม",
+      "เมนูคลิกขวาและเมนูย่อยขยับตำแหน่งเข้ากรอบจออัตโนมัติ ไม่เกินขอบจอ เห็นครบทั้ง 20 รายการทั้งจอ 100% และ 125%"
     ],
     "en": [
-      "Rebuilt as a pure native Windows WPF (.NET 10) + libmpv player with zero WebView2, single-process footprint, and permanent fix for Windows 11 taskbar black-bar artifacts",
-      "Framework-dependent win-x64 packaging shrinks installer to 59.67 MB and installed footprint to 189.62 MB",
-      "Installer automatically detects, downloads, verifies Microsoft digital signature, and installs .NET 10 Desktop Runtime (x64) if missing",
-      "Standardized install folder to แมวดำดูหนังมาเย้ย (GLee Play) with 100% compatibility with existing settings"
+      "Audio files (MP3, WAV, FLAC, M4A, OGG, etc.) now share video mouse controls: scroll wheel adjusts volume and double-clicking the stage or music card expands/restores fullscreen",
+      "Click-and-hold drag any non-interactive area of the window to move the app smoothly while all buttons, menus, seekbar, and volume slider keep their normal behavior",
+      "Right-click context menu and all submenus automatically stay inside the screen work area without overflowing at 100% and 125% DPI, keeping all 20 items visible"
     ]
   },
   "announcement": {
@@ -23,10 +21,10 @@
   },
   "files": {
     "win-setup": {
-      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.7/GLee-Play-1.1.7-Setup.exe",
-      "size": 62570808,
-      "sha256": "32ac6fb8e3fd296b124f63cd455fcb77d0c95460fdac6ebde4fd382c3c40502b"
+      "url": "https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.8/GLee-Play-1.1.8-Setup.exe",
+      "size": 62566510,
+      "sha256": "3d49093783d8884492416c2d1168ec8f27c2f8d9aefde2f12c3605d9516b83d8"
     }
   },
-  "sig": "WMr9ZX3QHF/8/HpnMAi+02gVniRdlZROmj9fPrFiI8wpEPgtWOxmlGG9oYigyj1znDJiZhdv7nvYGiX4dnqqBg=="
+  "sig": "dpEZuhpky9UIyuaIY27gRPWxrkI5G6uJ8Wm2P6JnsYZp10sqRufCSzUIb3MN2RoFD93mVAfLLErT1KtAfe7DDA=="
 }
