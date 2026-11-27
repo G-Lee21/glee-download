@@ -57,14 +57,14 @@
         <em>Fast Windows video and music player with wide format support, 3 clean themes (White / Black / Candy) with theme-matched controls, instant capture, default repeat playback, built-in auto-updates, and full subtitle/audio controls.</em>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.7/GLee-Play-1.1.7-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.1.7 · Download GLee Play 1.1.7" height="28" align="absmiddle" /></a>
-        &nbsp;<strong>โปรแกรม 1.1.7</strong>
+        <a href="https://github.com/G-Lee21/glee-download/releases/download/play-v1.1.8/GLee-Play-1.1.8-Setup.exe"><img src="images/badge-download.svg" alt="ดาวน์โหลด แมวดำดูหนังมาเย้ย โปรแกรม 1.1.8 · Download GLee Play 1.1.8" height="28" align="absmiddle" /></a>
+        &nbsp;<strong>โปรแกรม 1.1.8</strong>
         &nbsp;<code>Windows 10 / 11 (64-bit)</code>
         &nbsp;·&nbsp;<code>59.67 MB</code>
       </p>
       <p>
-        <a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.1.7">รายละเอียดรุ่น · Release notes</a>
-        &nbsp;·&nbsp;SHA-256: <code>32ac6fb8e3fd296b124f63cd455fcb77d0c95460fdac6ebde4fd382c3c40502b</code>
+        <a href="https://github.com/G-Lee21/glee-download/releases/tag/play-v1.1.8">รายละเอียดรุ่น · Release notes</a>
+        &nbsp;·&nbsp;SHA-256: <code>3d49093783d8884492416c2d1168ec8f27c2f8d9aefde2f12c3605d9516b83d8</code>
       </p>
       <p>
         ต้องมี .NET 10 Desktop Runtime (x64) ในเครื่อง ถ้ายังไม่มี ตัวติดตั้งจะโหลดจาก Microsoft และลงให้อัตโนมัติ (ต้องต่อเน็ต และกดยืนยัน 1 ครั้ง)
